@@ -1,0 +1,12 @@
+body{
+  background-color: #eeeae4;
+}
+
+h1{
+  text-align: center;
+}
+p{
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 30px 0 30px;
+}
